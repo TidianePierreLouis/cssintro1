@@ -1,0 +1,39 @@
+
+
+.boiteBleue{
+    width: 95vw;
+    height: 95vh;
+    border: 5px blue solid;
+}
+
+.cerclevert{
+
+    background-color: green;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+
+}
+
+.rectangleviolet {
+
+    background-color: purple;
+    width: 400px;
+    height: 200px;
+
+}
+
+.carreimage {
+
+    width: 100px;
+    height: 100px;
+
+}
+
+.cerclelasagne{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
